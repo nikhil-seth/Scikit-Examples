@@ -1,7 +1,7 @@
 
 # coding: utf-8
 
-# Random Forest Classifier On Dataset of Wharts.
+# Extra Trees Classifier On Dataset of Wharts.
 
 # In[11]:
 

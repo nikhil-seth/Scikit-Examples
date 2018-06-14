@@ -1,8 +1,7 @@
 
 # coding: utf-8
 
-# Random Forest Classifier On Dataset of Wharts.
-
+# Extra Trees Regressor on Data Set of House Prices
 # In[40]:
 
 
